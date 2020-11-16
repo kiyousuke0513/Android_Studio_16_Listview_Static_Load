@@ -1,0 +1,2 @@
+# Android_Studio_16_Listview_Static_Load
+ listview靜態載入
