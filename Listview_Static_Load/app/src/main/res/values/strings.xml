@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Listview_Static_Load</string>
+    <string name="TV_Title">ListView靜態載入</string>
 
     <string-array name="Item_List_Array">
         <item>"item 1"</item>
